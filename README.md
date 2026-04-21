@@ -25,7 +25,7 @@ Tudo isso rodando com:
 
 * Frontend puro (HTML + JS)
 * Backend Node.js
-* Integração com LLM (Groq / Llama) <--- **Vai precisar de um cadastro no site do Groq e criar um API (grátis porém limitado/Otimo lilmite para laboratorios para varios projetos)**
+* Integração com LLM (Groq / Llama) <--- **Vai precisar de um cadastro no site do Groq e criar um API (grátis porém limitado/Otimo limite para laboratorios para varios outros projetos)**
 
 ---
 
