@@ -107,7 +107,7 @@ cd iana-assistente
 ### ⚙️ 2. Backend
 
 ```bash
-cd backend
+cd assistente-backend
 npm install
 node server.js
 ```
@@ -123,7 +123,7 @@ http://localhost:3000
 ### 🌐 3. Frontend
 
 ```bash
-cd frontend
+cd assistente-frontend
 python -m http.server 8000
 ```
 
